@@ -16,5 +16,15 @@ namespace ussoft_Test_DBConnect
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            textBox1.Text = "GIVE ME THE COFFE!";
+        }
     }
 }
