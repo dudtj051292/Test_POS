@@ -22,9 +22,29 @@ namespace ussoft_Test_DBConnect
 
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            textBox1.Text = "GIVE ME THE COFFE!";
+
+        }
+
+        private void textBox4_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void imageEdit1_EditValueChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
